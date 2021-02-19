@@ -108,7 +108,7 @@
 <CscFeature_SystemUI_ConfigOpBrandingQuickSettingIcon>CHC</CscFeature_SystemUI_ConfigOpBrandingQuickSettingIcon>
 ```
 
-##### Vote
+##### Volte
 
 ```
 <CscFeature_VoiceCall_ConfigOpStyleForVolte>VolteCtc,CTC_VOLTE,wait_for_volte_regi_in_airplane_mode_ctc</CscFeature_VoiceCall_ConfigOpStyleForVolte>
