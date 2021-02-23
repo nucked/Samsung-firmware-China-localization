@@ -187,7 +187,9 @@
 ###### 智慧主页
 
 删除
-`system\system\app\MinusOnePage\MinusOnePage.apk`
+```
+system\system\app\MinusOnePage
+```
 
 ##### Bixby主页
 ```
