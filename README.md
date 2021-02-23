@@ -250,3 +250,8 @@ AppLock.apk
 
 
 
+##### 更改SPen翻译为百度翻译
+修改`/optics/configs/carriers/cscfeature.xml`加入
+```
+<CscFeature_SPen_ConfigDefTranslatorSolution>Baidu</CscFeature_SPen_ConfigDefTranslatorSolution>
+```
