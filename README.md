@@ -28,7 +28,6 @@
   <Country>CHINA</Country>
   <CountryISO>CN</CountryISO>
   <SalesCode>CHC</SalesCode>
-
 ```
 
 ```
@@ -77,14 +76,14 @@
 ```
 
 
-#### 启用通话录音：
+##### 启用通话录音：
 
 ```
 <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
 ```
 
 
-#### 天气本地化
+##### 天气本地化
 ```
 <CscFeature_Weather_ConfigCpType>CMA</CscFeature_Weather_ConfigCpType>
 <CscFeature_Weather_ConfigDefRefreshInterval>3</CscFeature_Weather_ConfigDefRefreshInterval>
@@ -136,7 +135,6 @@
 
 ```
 
-删掉
 ##### TTY模式:(没啥篮子用)
 ```
 <CscFeature_VoiceCall_SupportTTY>TRUE</CscFeature_VoiceCall_SupportTTY>
