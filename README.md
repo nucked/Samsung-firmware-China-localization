@@ -19,7 +19,7 @@
 替换CHC的`customer.xml，omc.info`文件
 
 修改
-`/optics/configs/carriers/cscfeature.xml`,需要使用[OMC_Decoder-Encoder](https://github.com/Yoanf26/OMC_Decoder_Encoder_by_Yoanf26)解密
+`\optics\configs\carriers\single\KOO\conf\cscfeature.xml`,需要使用[OMC_Decoder-Encoder](https://github.com/Yoanf26/OMC_Decoder_Encoder_by_Yoanf26)解密
 
 ##### 把文本开头的代码全部换成国行的代码
 
@@ -259,7 +259,7 @@ AppLock.apk
 
 
 ##### 更改SPen翻译为百度翻译
-修改`/optics/configs/carriers/cscfeature.xml`加入
+修改`\optics\configs\carriers\single\KOO\conf\cscfeature.xml`加入
 ```
 <CscFeature_SPen_ConfigDefTranslatorSolution>Baidu</CscFeature_SPen_ConfigDefTranslatorSolution>
 ```
