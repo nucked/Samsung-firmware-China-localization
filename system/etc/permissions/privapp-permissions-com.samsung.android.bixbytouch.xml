@@ -1,0 +1,11 @@
+<permissions>
+    <privapp-permissions package="com.samsung.android.bixbytouch">
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.READ_FRAME_BUFFER"/>
+        <permission name="android.permission.MODIFY_AUDIO_ROUTING"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="com.samsung.android.provider.smartclip.permission.WRITE"/>
+        <permission name="com.samsung.android.provider.smartclip.permission.READ"/>
+        <permission name="com.samsung.android.permission.EXTRACT_SMARTCLIP_DATA"/>
+    </privapp-permissions>
+</permissions>
